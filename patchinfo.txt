@@ -1,0 +1,29 @@
+[version]
+latest_game =1.0.0.1
+latest_launch = 1.0.3
+
+[patch_0]
+from = 0.0.0.3 
+to = 0.0.0.4 
+url = http://127.0.0.1/patch/instal_1.cpk 
+md5 = 
+[patch_1]
+from = 0.0.0.4 
+to = 0.0.0.5 
+url = http://127.0.0.1/patch/up1.cpk 
+md5 = 
+[patch_2]
+from = 0.0.0.5 
+to = 0.0.0.6 
+url = http://127.0.0.1/patch/up2.cpk 
+md5 = 
+[patch_3]
+from = 0.0.0.6 
+to = 1.0.0.0 
+url = http://127.0.0.1/patch/up3.cpk 
+md5 =
+[patch_4]
+from = 1.0.0.0 
+to = 1.0.0.1 
+url = http://127.0.0.1/patch/up.cpk 
+md5 =
